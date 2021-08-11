@@ -1,2 +1,2 @@
-# type001
+# typescriptscada
 Created with CodeSandbox
